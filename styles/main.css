@@ -1385,7 +1385,7 @@ input:focus {
 
 @media (max-width: 75rem) {
   .cont {
-    margin: 0, auto;
+    margin: 0 auto;
     max-width: 69.375rem;
   }
 
@@ -1397,7 +1397,7 @@ input:focus {
 @media (max-width: 62rem) {
   .cont {
     max-width: 57rem;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 
   .header__burger {
@@ -1640,7 +1640,7 @@ input:focus {
 
   .cont {
     max-width: 43.125rem;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 
   .header__content {
@@ -1707,7 +1707,7 @@ input:focus {
 
   .cont {
     max-width: 29rem;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 
   .header__burger {
@@ -1746,7 +1746,7 @@ input:focus {
 
   .cont {
     max-width: 23rem;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 
   .header__cover {
@@ -1894,7 +1894,7 @@ input:focus {
 @media screen and (max-width: 25rem) {
   .cont {
     max-width: 20rem;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 }
 /*# sourceMappingURL=maps/main.css.map */
