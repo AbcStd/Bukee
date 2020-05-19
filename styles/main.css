@@ -517,7 +517,7 @@ input:focus {
 .header {
   width: 100%;
   height: auto;
-  background-image: url(/img/bg-header.webp);
+  background-image: url(../img/bg-header.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -780,7 +780,7 @@ input:focus {
   width: 100%;
   max-width: 435px;
   height: 560px;
-  background-image: url(/img/bg-photoWoman.webp);
+  background-image: url(../img/bg-photoWoman.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1133,7 +1133,7 @@ input:focus {
   width: 100%;
   max-width: 435px;
   height: 705px;
-  background-image: url(/img/bg-photoWoman2.webp);
+  background-image: url(../img/bg-photoWoman2.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
