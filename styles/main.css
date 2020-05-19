@@ -510,8 +510,7 @@ input:focus {
   max-width: 1170px;
   padding-left: 15px;
   padding-right: 15px;
-  margin-inline-start: 30px;
-  margin-inline-end: 30px;
+  margin: 0 auto;
 }
 
 .header {
