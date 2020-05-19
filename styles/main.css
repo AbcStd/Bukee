@@ -968,7 +968,12 @@ input:focus {
 .other__inscription {
   position: absolute;
   top: 70px;
-  left: 95px;
+  left: 85px;
+}
+@media (max-width: 25rem) {
+  .other__inscription {
+    left: 70px;
+  }  
 }
 
 .other__inscription--name {
